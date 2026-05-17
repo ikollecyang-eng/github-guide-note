@@ -18,7 +18,7 @@ This repository records my journey of learning full-stack development, including
 
 ## 📂 Structure
 ** [readme撰写指南](./reame)
-* [git使用指南]()
+* [git使用指南](./gituse)
 ---
 
 ## ✨ Highlight Project
