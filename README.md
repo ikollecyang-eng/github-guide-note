@@ -13,6 +13,8 @@ This repository records my journey of learning full-stack development, including
 * 🌐 Frontend Basics (HTML, CSS, JS)
 * 🧠 Project Reflections (PeaceTown, etc.)
 * 📝 Daily Learning Notes
+* 📝 readme writing guide
+* 📝 git using guide
 
 ---
 
