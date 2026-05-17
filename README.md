@@ -17,7 +17,7 @@ This repository records my journey of learning full-stack development, including
 ---
 
 ## 📂 Structure
-* [readme撰写指南](#readme_ writer)
+* [readme撰写指南](./readme_ writer /basecode.md)
 * [git使用指南]()
 ---
 
