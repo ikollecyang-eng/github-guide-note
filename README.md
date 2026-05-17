@@ -17,7 +17,7 @@ This repository records my journey of learning full-stack development, including
 ---
 
 ## 📂 Structure
-[readme撰写指南]()
+* [readme撰写指南](.readme_ writer/ )
 [git使用指南]()
 ---
 
